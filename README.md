@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HALF111</h1>
+<h1 align="center">Hi 👋, I'm Lefei Shen.</h1>
 <h3 align="center">Welcome to my github!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=half111&label=Profile%20views&color=0e75b6&style=flat" alt="half111" /> </p>
